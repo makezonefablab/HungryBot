@@ -9,3 +9,4 @@
 로봇에게 간식을 주면 각각의 간식마다 다른 반응을 보여주는, 마치 나와 소통하는것 같은 로봇을 만드는것이 이번 실습의 컨셉이에요.
 아두이노에서 제일 기초적인 아두이노 우노를 사용하고 납땜 대신 점퍼선과 미니 브레드보드를 이용해 센서들을 연결하여 초보자도 쉽게 만들 수 있을거에요!
 
+[![ScreenShot](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://vimeo.com/102814242)
